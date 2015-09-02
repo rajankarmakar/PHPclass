@@ -1,0 +1,2 @@
+# PHPclass
+first problem solving
